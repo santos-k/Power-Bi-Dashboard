@@ -1,4 +1,5 @@
 # Power-Bi-Dashboard
+interactive dashboard using Power Bi
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/40932902/143051603-c8b0acef-dd22-490e-94fc-fe0077ad34ba.png">
 <img width="774" alt="image" src="https://user-images.githubusercontent.com/40932902/143051768-601b5df2-f03e-43bd-8ab8-02293d16a161.png">
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/40932902/143051971-c5a85c64-be62-4b11-8bf6-37122ee58d3d.png">
